@@ -1,6 +1,7 @@
-![Screenshot 2025-04-13 073825](https://github.com/user-attachments/assets/741900f5-03b8-49bd-8c57-ac3a872480f1)
-
 ![Screenshot 2025-04-13 073716](https://github.com/user-attachments/assets/a08a1278-ec99-42c0-b58d-79d433c4e9d2)
+
+
+![Screenshot 2025-04-13 073825](https://github.com/user-attachments/assets/741900f5-03b8-49bd-8c57-ac3a872480f1)
 
 ![Screenshot 2025-04-13 073855](https://github.com/user-attachments/assets/d2c959e3-f1e1-4b6f-883f-6876e399d025)
 
@@ -39,8 +40,5 @@ To create an efficient and respectful digital matchmaking experience that enable
 
 
 
-
-
-![image alt](https://github.com/user-attachments/assets/b3ae2ed7-41a6-4dc0-9d32-204a83598efb)
 
 
