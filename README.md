@@ -1,4 +1,14 @@
-![Screenshot 2025-04-13 073716](https://github.com/user-attachments/assets/a08a1278-ec99-42c0-b58d-79d433c4e9d2)💍 FindYourPartner
+![Screenshot 2025-04-13 073825](https://github.com/user-attachments/assets/741900f5-03b8-49bd-8c57-ac3a872480f1)
+
+![Screenshot 2025-04-13 073716](https://github.com/user-attachments/assets/a08a1278-ec99-42c0-b58d-79d433c4e9d2)
+
+![Screenshot 2025-04-13 073855](https://github.com/user-attachments/assets/d2c959e3-f1e1-4b6f-883f-6876e399d025)
+
+![Screenshot 2025-04-13 073920](https://github.com/user-attachments/assets/01048a8e-3207-4545-9fd6-c2e950bfd98e)
+
+
+
+💍 FindYourPartner
 
 FindYourPartner is a modern, full-stack matrimonial web application built using EJS templating. It is designed to streamline the matchmaking process with features like dynamic profile listings, advanced filtering, biodata image uploads, and secure user authentication.
 
